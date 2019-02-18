@@ -8,3 +8,23 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("h", "ij", 800, "8/8/2018", "8/8/2019");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("i", "jk", 900, "9/9/2019", "9/9/2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("j", "kl", 1000, "10/10/2020", "10/10/2021");
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
+INSERT INTO users (name, age) VALUES ("A", 20)
