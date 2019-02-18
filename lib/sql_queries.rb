@@ -46,7 +46,7 @@ FROM projects
 INNER JOIN pledges
 on projects.id=pledges.project_id
 GROUP BY projects.category
-HAVING projects.category='music'";
+HAVING projects.category='music';"
 end
 
 def selects_the_category_name_and_the_sum_total_of_the_all_its_pledges_for_the_books_category
