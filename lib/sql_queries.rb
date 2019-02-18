@@ -36,7 +36,7 @@ def selects_user_names_and_amounts_of_all_pledges_grouped_by_name_then_orders_th
  FROM users
  INNER JOIN pledges
  ON pledges.user_id = users.id
- GROUP BY users.name;;
+ GROUP BY users.name;
 "
 end
 
